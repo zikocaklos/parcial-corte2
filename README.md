@@ -1,2 +1,2 @@
 # parcial-corte2
-AYUDAME DIOSITO 
+Proyectio de reservacion de mesas para un restarurante-programacion movil.
